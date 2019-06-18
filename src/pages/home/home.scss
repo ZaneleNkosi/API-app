@@ -1,3 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Pacifico|Righteous|Roboto+Condensed|Ubuntu|Open+Sans+Condensed');
 page-home {
+    .content{
+        background: #571F44;
+        border: 5px solid #5F3B53;
+    }
+  
+    .title{
+        font-family: 'Righteous';
+        font-size: 20px;
+       
+    }
 
+    .card-header h1{
+        font-family: 'Roboto Condensed';
+        font-size: 20px;
+        color: #5F3B53;
+        font-weight: bold;
+    }
+
+    p{
+        font-family: 'Lato'; 
+    }
 }
